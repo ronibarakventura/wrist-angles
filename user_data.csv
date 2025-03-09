@@ -1,0 +1,20 @@
+User ID,Gender,Age,Dominant Hand,Date,Total Time (Seconds),Number of Falcon Observations,Number of IMU observations,Training/OOS
+1,Female ,23,R,3/11/24,314.865,14215,4110,training
+2,Male,23,R,3/11/24,289.298,12851,3777,training
+3,Male,24,L,3/11/24,369.272,17192,4822,training
+4,Female,23,R,3/11/24,338.88,15561,4430,training
+5,Male,23,R,3/29/24,301.708,12716,4470,training
+6,Male,25,R,3/29/24,187.695,6734,2463,training
+7,Male,20,R,5/7/24,267.895,10118,3506,training
+8,Male,25,R,4/4/24,353.095,12524,4627,training
+9,Male,25,R,4/12/24,266.947,8815,3494,training
+10,Female,21,R,4/12/24,302.525,10494,3957,training
+11,Male,23,R,4/14/24,309.367,10886,4047,training
+12,Male,23,R,4/15/24,348.557,12238,4566,training
+13,Male,23,R,5/7/24,231.067,8442,3028,training
+14,Female,24,R,4/18/24,456.052,16577,5947,training
+15,Female,29,R,4/16/24,450.12,16385,5875,training
+16,Female,30,R,4/16/24,668.808,25262,8747,training
+17,Female,27,R,4/17/24,483.974,16705,6323,training
+18,Male,24,R,4/4/24,310.041,10623,3938,out-of-sample
+19,Female,22,R,5/6/24,400.368,15017,5234,out-of-sample
